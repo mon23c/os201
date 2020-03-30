@@ -1,3 +1,4 @@
+# Hello
 ## Welcome to Adrian's Pages
 
-See my pages on [here](https://mon23c.github.io/os201/)
+This site was created to store files related to Operating Systems course.
