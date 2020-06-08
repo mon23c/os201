@@ -8,4 +8,5 @@ permalink: /url/
 * [Operating System Concepts (Silberschatz et.al.)](https://codex.cs.yale.edu/avi/os-book/)
 * [Systemd main page](https://systemd.io/)
 * [Writing FUSE tutorial](https://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/html/)
+
 --Adrian Wijaya - 1806205363 - OS201 B
