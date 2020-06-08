@@ -11,8 +11,7 @@ Adrian Wijaya OS201 page
 * Saya juga suka membaca buku nonfiksi di waktu senggang.
 
 ### Apa halaman ini?
-* Halaman ini untuk Ujian Akhir Semester mata kuliah Sistem Operasi. Akan ada juga halaman berisi
-  link berguna mengenai sistem operasi. Bisa dilihat di akhir halaman.
+* Halaman ini dibuat untuk bisa mengetahui lebih jauh mengenai sistem operasi, akan terdapat link yang bisa dilihat dibawah untuk sumber materi ataupun referensi.
 
 ### Mengapa ada halaman ini?
 * Untuk memenuhi syarat untuk menyelesaikan tahap-1 UAS OS201.
@@ -21,3 +20,4 @@ Adrian Wijaya OS201 page
 * Go here: [More about Operating Systems reference](url/)
 
 --Adrian Wijaya - 1806205363 - OS201 B
+Jolan Tru!
