@@ -1,25 +1,24 @@
-Script started on 2020-06-08 13:47:14+07:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="82" LINES="43"]
-(B[m(B[m(B[m(B[m]0;adrian:../term4/OS/os201/UAS
-[0;1;97;44m adrian [0;34;104m[0;1;97;104m fedora32 [0;94;107m[0;90;1;107m ../term4/OS/os201/UAS [0;97;49m[1;38;5;74m PS1="$ "
-(B[m(B[m$ echo $GitHubUser
-(B[mmon23c
-(B[m$ echo $PSTAMP
-(B[mTMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
-(B[m$ PS1="\$(eval \$PSTAMP)"
-(B[m(B[m200608-134746-7e24-UAS/> ls -F
-(B[m0000-mypub.txt  0001-mytest.txt  0002-mytest.txt.asc  0003-CEK-PAS0.txt
-(B[m200608-134749-83ed-UAS/> sha1sum 0000-mypub.txt 0001-mytest.txt 0002-mytest.txt.asc > SHA1SUM
-(B[m(B[m200608-134809-61dc-UAS/> sha1sum -c SHA1SUM 
-(B[m0000-mypub.txt: OK
+Script started on 2020-06-08 16:12:24+07:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="82" LINES="43"]
+]0;adrian@home:~/Documents/academy/term4/OS/os201/UAS[adrian@fedora32 UAS]$ PS1="$ "
+]0;adrian@home:~/Documents/academy/term4/OS/os201/UAS$ echo $GitHubUser
+mon23c
+]0;adrian@home:~/Documents/academy/term4/OS/os201/UAS$ echo $PSTAMP
+TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
+]0;adrian@home:~/Documents/academy/term4/OS/os201/UAS$ PS1="\$(eval \$PSTAMP)"
+]0;adrian@home:~/Documents/academy/term4/OS/os201/UAS200608-161306-5c5a-UAS/> ls -F
+0000-mypub.txt  0001-mytest.txt  0002-mytest.txt.asc  0003-CEK-PAS0.txt
+]0;adrian@home:~/Documents/academy/term4/OS/os201/UAS200608-161311-b159-UAS/> sha1sum 0000-mypub.txt 0001-mytest.txt 0002-mytest.txt.asc > SHA1SUM
+]0;adrian@home:~/Documents/academy/term4/OS/os201/UAS200608-161329-9bef-UAS/> sha1sum -c SHA1SUM [K
+0000-mypub.txt: OK
 0001-mytest.txt: OK
 0002-mytest.txt.asc: OK
-(B[m200608-134816-87f0-UAS/> gpg2 -sb -a SHA1SUM 
-(B[m(B[m200608-134825-c18f-UAS/> gpg2 --verify SHA1SUM.asc
-(B[mgpg: assuming signed data in 'SHA1SUM'
-gpg: Signature made Mon 08 Jun 2020 01:48:25 PM WIB
+]0;adrian@home:~/Documents/academy/term4/OS/os201/UAS200608-161343-9002-UAS/> gpg2 -sb -a SHA1SUM 
+]0;adrian@home:~/Documents/academy/term4/OS/os201/UAS200608-161351-4b4c-UAS/> gpg2 --verify SHA1SUM.asc
+gpg: assuming signed data in 'SHA1SUM'
+gpg: Signature made Mon 08 Jun 2020 04:13:51 PM WIB
 gpg:                using RSA key 49BF5082D959C56F251C02006B95604A860827B7
 gpg: Good signature from "Adrian Wijaya <adrianwijaya100@gmail.com>" [ultimate]
-(B[m200608-134832-a2aa-UAS/> exit
-(B[mexit
+]0;adrian@home:~/Documents/academy/term4/OS/os201/UAS200608-161358-3ae0-UAS/> exit
+exit
 
-Script done on 2020-06-08 13:48:49+07:00 [COMMAND_EXIT_CODE="0"]
+Script done on 2020-06-08 16:14:08+07:00 [COMMAND_EXIT_CODE="0"]
