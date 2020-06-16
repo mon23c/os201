@@ -1,5 +1,5 @@
 ---
-permalink: /URLs/
+permalink: /url/
 ---
 
 ## Urls for operating systems
