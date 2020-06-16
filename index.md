@@ -17,7 +17,7 @@ Adrian Wijaya OS201 page
 * Untuk memenuhi syarat untuk menyelesaikan tahap-1 UAS OS201.
 
 ### Want to know more about Sistem Operasi?
-* Go here: [More about Operating Systems reference](URLs/)
+* Go here: [More about Operating Systems reference](url/)
 
 --Adrian Wijaya - 1806205363 - OS201 B
 Jolan Tru!
